@@ -1,7 +1,7 @@
 package voxels.generate;
 
 /*
- * Hi. there
+ * Hi. there. ok.
  */
 public class Chunk {
 
